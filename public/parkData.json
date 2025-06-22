@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Birds Hill Provincial Park",
+    "image": "assets/bird_hill.jpg",
+    "activities": ["camping", "hiking", "swimming"],
+    "facilities": ["RV sites", "pet-friendly"],
+    "region": "Eastern",
+    "description": "A beautiful park near Winnipeg known for its sandy beach and trails."
+  },
+  {
+    "name": "Whiteshell Provincial Park",
+    "image": "https://www.gov.mb.ca/sd/parks/popular-parks/eastern/whiteshell/_jcr_content/par/image.img.jpg/1627581174845.jpg",
+    "activities": ["camping", "hiking", "winter sports"],
+    "facilities": ["cabins", "pet-friendly"],
+    "region": "Eastern",
+    "description": "Scenic lakes, forests, and trails ideal for year-round adventures."
+  },
+  {
+    "name": "Riding Mountain National Park",
+    "image": "https://www.pc.gc.ca/en/pn-np/mb/riding/visit/~/media/9B9B5F7E8F1F4F3E8E0F3E3E3E3E3E3.ashx",
+    "activities": ["camping", "hiking", "wildlife-viewing", "winter sports"],
+    "facilities": ["cabins", "RV sites"],
+    "region": "Western",
+    "description": "Home to boreal forest, lakes, and elk herds – a gem in Western Manitoba."
+  },
+  {
+    "name": "Duck Mountain Provincial Park",
+    "image": "https://www.gov.mb.ca/sd/parks/popular-parks/northern/duckmountain/_jcr_content/par/image.img.jpg/1627581174845.jpg",
+    "activities": ["camping", "fishing", "swimming"],
+    "facilities": ["cabins", "pet-friendly"],
+    "region": "Northern Manitoba",
+    "description": "Lush forest park with lakes and recreation, perfect for summer retreats."
+  },
+  {
+    "name": "Spruce Woods Provincial Park",
+    "image": "https://www.gov.mb.ca/sd/parks/popular-parks/western/sprucewoods/_jcr_content/par/image.img.jpg/1627581174845.jpg",
+    "activities": ["hiking", "camping", "sand dune exploration"],
+    "facilities": ["RV sites", "cabins"],
+    "region": "Western",
+    "description": "Famous for its unique sand dunes and Spirit Sands trail, offering a desert-like experience."
+  },
+  {
+    "name": "Nopiming Provincial Park",
+    "image": "https://www.gov.mb.ca/sd/parks/popular-parks/eastern/nopiming/_jcr_content/par/image.img.jpg/1627581174845.jpg",
+    "activities": ["canoeing", "fishing", "hiking"],
+    "facilities": ["cabins", "campgrounds"],
+    "region": "Eastern",
+    "description": "Remote wilderness park with pristine lakes and rugged trails – ideal for nature lovers."
+  },
+  {
+    "name": "Hecla-Grindstone Provincial Park",
+    "image": "https://www.gov.mb.ca/sd/parks/popular-parks/interlake/hecla/_jcr_content/par/image.img.jpg/1627581174845.jpg",
+    "activities": ["boating", "golfing", "birdwatching"],
+    "facilities": ["resort", "campgrounds"],
+    "region": "Interlake",
+    "description": "Island park on Lake Winnipeg with heritage village, marina, and scenic shoreline trails."
+  },
+  {
+    "name": "Paint Lake Provincial Park",
+    "image": "https://www.gov.mb.ca/sd/parks/popular-parks/northern/paintlake/_jcr_content/par/image.img.jpg/1627581174845.jpg",
+    "activities": ["fishing", "boating", "camping"],
+    "facilities": ["cabins", "marina"],
+    "region": "Northern Manitoba",
+    "description": "Popular northern park with deep blue waters and excellent fishing opportunities."
+  },
+  {
+    "name": "Grand Beach Provincial Park",
+    "image": "https://www.gov.mb.ca/sd/parks/popular-parks/eastern/grandbeach/_jcr_content/par/image.img.jpg/1627581174845.jpg",
+    "activities": ["swimming", "sunbathing", "camping"],
+    "facilities": ["RV sites", "picnic areas"],
+    "region": "Eastern",
+    "description": "Renowned for its white sand beaches and warm shallow waters – perfect for families."
+  }
+]
